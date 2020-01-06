@@ -947,4 +947,16 @@
         "description": "Tableau Web Data Connector for fetching OECD dataset Greenhouse gas emissions by source",
         "source_code": "https://github.com/JoshYEn/wdc-oecd-sdmx-json"
     }
+    
+    {
+    "name": "NBA API Connector",
+    "url": "https://github.com/muthukumarsm/Tablaeu_WDC",
+    "author": "Muthukumar",
+    "github_username": "",
+    "tags": ["v_1.0"],
+    "description": "This connector is for pulling NBA 2019 teams, games, players and game statistics",
+    "source_code": "github.com/muthukumarsm/Tableau_WDC"
+     }
+    
+    
 ]
